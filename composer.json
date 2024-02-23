@@ -5,8 +5,7 @@
   "keywords": ["postgres","migration","diff"],
   "license": "MIT",
   "require": {
-    "php": ">=8.2",
-    "ext-bcmath": "*"
+    "php": ">=8.2"
   },
   "require-dev": {
     "friendsofphp/php-cs-fixer": "^3.49",
