@@ -1,1 +1,3 @@
-# php-fix-postgres-diff
+# Fix postgres migration diff
+
+Package to fix postgres migration diff
